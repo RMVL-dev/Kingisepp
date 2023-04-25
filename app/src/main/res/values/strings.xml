@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Kingisepp</string>
+    <string name="attractions">Attractions</string>
+    <string name="nature">Nature</string>
+    <string name="museums">Museums</string>
+    <string name="resto">Restaurants</string>
+    <string name="church">Cathedral of Catherine the Great Martyr</string>
+    <string name="lutheran_church">Lutheran church</string>
+    <string name="town_hall">Town hall</string>
+    <string name="monument">Cranes</string>
+    <string name="holy_spring">Holy spring</string>
+    <string name="yam_fortress">Yam fortress</string>
+    <string name="forest_500">Forest 500</string>
+    <string name="museum_1">Local history museum</string>
+    <string name="museum_2">Tsaritsyno barracks</string>
+    <string name="the_collection">The collection</string>
+    <string name="diamonds">Diamonds</string>
+    <string name="shmel">Shmel</string>
 </resources>
